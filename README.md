@@ -1,0 +1,2 @@
+# LYUtest
+对github进行简单认知以及进行简单的Java程序开发
